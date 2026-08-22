@@ -1,4 +1,4 @@
-name: Aprendiendo Github Actions
+name: Hola mundo Github Actions practica
 run-name: Aprendiendo el beta
 on: [push]
 jobs:
