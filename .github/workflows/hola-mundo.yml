@@ -11,6 +11,8 @@ jobs:
             run: echo "USERNAME=${{ github.actor}}" >> $GITHUB_ENV
           - name: Correr script
             run: node main.js
+          - name: Corre script python
+            run: python main.py
 
 # # This is a basic workflow to help you get started with Actions
 
